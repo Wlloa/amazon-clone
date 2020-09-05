@@ -1,12 +1,11 @@
 import React from 'react';
 import Banner from '../../image/2375B_Banner1_WAVE_2048x497.jpg';
+import "./Home.css";
 
 const Home = ()=>{
     return(
         <div className="home">
-            <div className="home__banner">
-                <img src="" alt="" className="home__banner__img"/>
-            </div>
+            <img src={Banner} alt="" className="home__image"/>
         </div>
     )
 };
