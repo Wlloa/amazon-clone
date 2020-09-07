@@ -16,35 +16,35 @@ const Home = ()=>{
                     id={'1'}
                     title={"Acer Predator Helios 300 Gaming Laptop, Intel i7-10750H, NVIDIA GeForce RTX 2060 6GB, 15.6\" Full HD 144Hz 3ms IPS Display, 16GB Dual-Channel DDR4, 512GB NVMe SSD, WiFi 6, RGB Keyboard, PH315-53-72XD"}
                     image={"https://images-na.ssl-images-amazon.com/images/I/71k45hZkLmL._AC._SR360,460.jpg"}
-                    price="1199.99"
+                    price={1199.99}
                     rating={5}
                 />
                 <Product
                     id={'2'}
                     title={"Acer Predator Helios 300 Gaming Laptop, Intel i7-10750H, NVIDIA GeForce RTX 2060 6GB, 15.6\" Full HD 144Hz 3ms IPS Display, 16GB Dual-Channel DDR4, 512GB NVMe SSD, WiFi 6, RGB Keyboard, PH315-53-72XD"}
                     image={"https://images-na.ssl-images-amazon.com/images/I/71k45hZkLmL._AC._SR360,460.jpg"}
-                    price="1199.99"
+                    price={1199.99}
                     rating={5}
                 />
                 <Product
                     id={'3'}
                     title={"Acer Predator Helios 300 Gaming Laptop, Intel i7-10750H, NVIDIA GeForce RTX 2060 6GB, 15.6\" Full HD 144Hz 3ms IPS Display, 16GB Dual-Channel DDR4, 512GB NVMe SSD, WiFi 6, RGB Keyboard, PH315-53-72XD"}
                     image={"https://images-na.ssl-images-amazon.com/images/I/71k45hZkLmL._AC._SR360,460.jpg"}
-                    price="1199.99"
+                    price={1199.99}
                     rating={5}
                 />
                 <Product
                     id={'4'}
                     title={"Acer Predator Helios 300 Gaming Laptop, Intel i7-10750H, NVIDIA GeForce RTX 2060 6GB, 15.6\" Full HD 144Hz 3ms IPS Display, 16GB Dual-Channel DDR4, 512GB NVMe SSD, WiFi 6, RGB Keyboard, PH315-53-72XD"}
                     image={"https://images-na.ssl-images-amazon.com/images/I/71k45hZkLmL._AC._SR360,460.jpg"}
-                    price="1199.99"
+                    price={1199.99}
                     rating={5}
                 />
                 <Product
                     id={'5'}
                     title={"Acer Predator Helios 300 Gaming Laptop, Intel i7-10750H, NVIDIA GeForce RTX 2060 6GB, 15.6\" Full HD 144Hz 3ms IPS Display, 16GB Dual-Channel DDR4, 512GB NVMe SSD, WiFi 6, RGB Keyboard, PH315-53-72XD"}
                     image={"https://images-na.ssl-images-amazon.com/images/I/71k45hZkLmL._AC._SR360,460.jpg"}
-                    price="1199.99"
+                    price={1199.99}
                     rating={5}
                 />
             </div>
@@ -53,28 +53,28 @@ const Home = ()=>{
                     id={'6'}
                     title={"Acer Predator Helios 300 Gaming Laptop, Intel i7-10750H, NVIDIA GeForce RTX 2060 6GB, 15.6\" Full HD 144Hz 3ms IPS Display, 16GB Dual-Channel DDR4, 512GB NVMe SSD, WiFi 6, RGB Keyboard, PH315-53-72XD"}
                     image={"https://images-na.ssl-images-amazon.com/images/I/71k45hZkLmL._AC._SR360,460.jpg"}
-                    price="1199.99"
+                    price={1199.99}
                     rating={5}
                 />
                 <Product
                     id={'7'}
                     title={"Acer Predator Helios 300 Gaming Laptop, Intel i7-10750H, NVIDIA GeForce RTX 2060 6GB, 15.6\" Full HD 144Hz 3ms IPS Display, 16GB Dual-Channel DDR4, 512GB NVMe SSD, WiFi 6, RGB Keyboard, PH315-53-72XD"}
                     image={"https://images-na.ssl-images-amazon.com/images/I/71k45hZkLmL._AC._SR360,460.jpg"}
-                    price="1199.99"
+                    price={1199.99}
                     rating={5}
                 />
                 <Product
                     id={'8'}
                     title={"Acer Predator Helios 300 Gaming Laptop, Intel i7-10750H, NVIDIA GeForce RTX 2060 6GB, 15.6\" Full HD 144Hz 3ms IPS Display, 16GB Dual-Channel DDR4, 512GB NVMe SSD, WiFi 6, RGB Keyboard, PH315-53-72XD"}
                     image={"https://images-na.ssl-images-amazon.com/images/I/71k45hZkLmL._AC._SR360,460.jpg"}
-                    price="1199.99"
+                    price={1199.99}
                     rating={5}
                 />
                 <Product
                     id={'9'}
                     title={"Acer Predator Helios 300 Gaming Laptop, Intel i7-10750H, NVIDIA GeForce RTX 2060 6GB, 15.6\" Full HD 144Hz 3ms IPS Display, 16GB Dual-Channel DDR4, 512GB NVMe SSD, WiFi 6, RGB Keyboard, PH315-53-72XD"}
                     image={"https://images-na.ssl-images-amazon.com/images/I/71k45hZkLmL._AC._SR360,460.jpg"}
-                    price="1199.99"
+                    price={1199.99}
                     rating={5}
                 />
                
@@ -84,35 +84,35 @@ const Home = ()=>{
                     id={'10'}
                     title={"Acer Predator Helios 300 Gaming Laptop, Intel i7-10750H, NVIDIA GeForce RTX 2060 6GB, 15.6\" Full HD 144Hz 3ms IPS Display, 16GB Dual-Channel DDR4, 512GB NVMe SSD, WiFi 6, RGB Keyboard, PH315-53-72XD"}
                     image={"https://images-na.ssl-images-amazon.com/images/I/71k45hZkLmL._AC._SR360,460.jpg"}
-                    price="1199.99"
+                    price={1199.99}
                     rating={5}
                 />
                 <Product
                     id={'12'}
                     title={"Acer Predator Helios 300 Gaming Laptop, Intel i7-10750H, NVIDIA GeForce RTX 2060 6GB, 15.6\" Full HD 144Hz 3ms IPS Display, 16GB Dual-Channel DDR4, 512GB NVMe SSD, WiFi 6, RGB Keyboard, PH315-53-72XD"}
                     image={"https://images-na.ssl-images-amazon.com/images/I/71k45hZkLmL._AC._SR360,460.jpg"}
-                    price="1199.99"
+                    price={1199.99}
                     rating={5}
                 />
                 <Product
                     id={'13'}
                     title={"Acer Predator Helios 300 Gaming Laptop, Intel i7-10750H, NVIDIA GeForce RTX 2060 6GB, 15.6\" Full HD 144Hz 3ms IPS Display, 16GB Dual-Channel DDR4, 512GB NVMe SSD, WiFi 6, RGB Keyboard, PH315-53-72XD"}
                     image={"https://images-na.ssl-images-amazon.com/images/I/71k45hZkLmL._AC._SR360,460.jpg"}
-                    price="1199.99"
+                    price={1199.99}
                     rating={5}
                 />
                 <Product
                     id={'14'}
                     title={"Acer Predator Helios 300 Gaming Laptop, Intel i7-10750H, NVIDIA GeForce RTX 2060 6GB, 15.6\" Full HD 144Hz 3ms IPS Display, 16GB Dual-Channel DDR4, 512GB NVMe SSD, WiFi 6, RGB Keyboard, PH315-53-72XD"}
                     image={"https://images-na.ssl-images-amazon.com/images/I/71k45hZkLmL._AC._SR360,460.jpg"}
-                    price="1199.99"
+                    price={1199.99}
                     rating={5}
                 />
                 <Product
                     id={'15'}
                     title={"Acer Predator Helios 300 Gaming Laptop, Intel i7-10750H, NVIDIA GeForce RTX 2060 6GB, 15.6\" Full HD 144Hz 3ms IPS Display, 16GB Dual-Channel DDR4, 512GB NVMe SSD, WiFi 6, RGB Keyboard, PH315-53-72XD"}
                     image={"https://images-na.ssl-images-amazon.com/images/I/71k45hZkLmL._AC._SR360,460.jpg"}
-                    price="1199.99"
+                    price={1199.99}
                     rating={5}
                 />
             </div>
